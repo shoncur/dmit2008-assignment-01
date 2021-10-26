@@ -1,0 +1,42 @@
+[
+    {
+        "id":"qif84mf9",
+        "category":"home",
+        "description":"wash the dishes",
+        "isComplete":true,
+        "startDate":"Monday October 25th",
+        "startTime":"9:00am",
+        "endDate":"Monday October 25th",
+        "endTime":"10:am"
+    },
+    {
+        "id":"kj49g0kl",
+        "category":"health",
+        "description":"go to the gym",
+        "isComplete":true,
+        "startDate":"Tuesday October 26th",
+        "startTime":"9:00am",
+        "endDate":"Tuesday October 26th",
+        "endTime":"10:am"
+    },
+    {
+        "id":"mn19c78d",
+        "category":"friends",
+        "description":"go to the movie theatre",
+        "isComplete":false,
+        "startDate":"Wednesday October 27th",
+        "startTime":"9:00am",
+        "endDate":"Wednesday October 27th",
+        "endTime":"10:am"
+    },
+    {
+        "id":"v98vc03k",
+        "category":"work",
+        "description":"create the analysis report",
+        "isComplete":true,
+        "startDate":"Thursday October 28th",
+        "startTime":"9:00am",
+        "endDate":"Thursday October 28th",
+        "endTime":"10:am"
+    }
+]
